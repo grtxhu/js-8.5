@@ -1,7 +1,7 @@
 
-var a = prompt('podaj długość podstawy, a'),
-    h = prompt('podaj wysokość, h'),
-    triangleArea = a*h/2;
+var a = prompt('podaj długość podstawy, a');
+    h = prompt('podaj wysokość, h');
+    triangleArea = a * h / 2;
 
 alert('Pole trójkąta wynosi:' + triangleArea);
 
